@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando com marketing
 - 🌐 Téc. Redes de Computadores
 - 📚 Cursando Análise e dev. de Sistemas
-- ⚡ Me preparando cada vez mais para os desafios do DataSciense
+- ⚡ Me preparando cada vez mais para os desafios da área de TI, com foco em DataSciense
 
 ##
 
